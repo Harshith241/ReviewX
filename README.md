@@ -13,3 +13,5 @@
 - **Database:** MongoDB / PostgreSQL  
 - **AI:** OpenAI GPT / Hugging Face BERT  
 - **Scraping:** BeautifulSoup, Selenium
+
+Project paused temporarily while I gain more hands-on experience with javascript. Will resume around mid june.
